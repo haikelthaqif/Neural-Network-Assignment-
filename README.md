@@ -1,4 +1,4 @@
-# Neural-Network-Assignment-Prokect
+# Neural-Network-Assignment-Project
 
 
 This GitHub repository contains the code for a simple Backpropagation neural network written in Python. The project's goal is to investigate the changes in learning when noise is present in inputs and/or target data. The neural network has only one unit with a sigmoid activation function.
