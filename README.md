@@ -7,7 +7,7 @@ This GitHub repository contains the code for a simple Backpropagation neural net
 
 For this project, we implement a 2-input single unit Backpropagation neural network with a sigmoid activation function. The system reads data from a file named "training.txt" and reads parameters from another file named "params.txt." The parameters include initial weights and learning rate. The project uses a batch size of 1, meaning weights are updated for each example, and an epoch represents one complete run through the training set.
 
-The error measure used is the sum-of-squares-of-errors (SSE) or mean-squared-error (MSE) calculated over the entire training set. The expectation is that this error will decrease with training. During training, weights and errors are printed out after 2, 4, 8, 16, 32, etc., epochs and saved in a file named "SRNresults1.txt," where SRN should be replaced with your student registration number.
+The error measure used is the sum-of-squares-of-errors (SSE) or mean-squared-error (MSE) calculated over the entire training set. The expectation is that this error will decrease with training. During training, weights and errors are printed out after 2, 4, 8, 16, 32, etc., epochs and saved in a file named "XXXXresults1.txt,"
 
 Additionally, the project includes a testing phase where the network's ability to learn predefined weights is evaluated using different sets of initial weights and training data.
 
